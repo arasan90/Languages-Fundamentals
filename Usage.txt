@@ -1,0 +1,6 @@
+Compile the codes using javac.
+Once compiled, launch the programs with the following syntax:
+java [prog_name] [alphabet] [number/string]
+
+[alphabet] must contain all possible symbols in without any space in between
+[number/string] choose dependently of the chosen program to run
